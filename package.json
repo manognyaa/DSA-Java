@@ -5,7 +5,7 @@
   "author": "Utkarsh Mishra <Utkarshmishra73444@gmail.com>",
   "dependencies": {
     "@fontsource/open-sans": "^4.5.0",
-    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^5.0.2",
     "front-matter": "^4.0.2",
     "gatsby": "^4.6.0",
